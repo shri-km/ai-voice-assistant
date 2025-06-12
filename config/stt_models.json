@@ -1,0 +1,5 @@
+{
+    "en-small": "models/stt/vosk-small-en",
+    "en-small-in": "models/stt/vosk-small-en-in"
+}
+  

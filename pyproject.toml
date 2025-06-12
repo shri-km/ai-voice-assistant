@@ -1,0 +1,15 @@
+[project]
+name = "s2s"
+version = "0.1.0"
+description = "AI Conversation model with Lipsync"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai>=1.19.0",
+    "keyboard>=0.13.5",
+    "numpy>=2.3.0",
+    "python-dotenv>=1.1.0",
+    "pyttsx3>=2.98",
+    "sounddevice>=0.5.2",
+    "vosk>=0.3.45",
+]

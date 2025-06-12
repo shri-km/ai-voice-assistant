@@ -1,0 +1,24 @@
+# Ignore .env files anywhere in the project
+**/.env
+**/.env.*
+
+uv.lock
+.uv/
+uv.log
+
+# Bytecode and Python cache
+__pycache__/
+**/__pycache__
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env.bak/
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
